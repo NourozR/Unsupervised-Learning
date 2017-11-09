@@ -16,4 +16,4 @@ For more information, follow this [link](https://en.wikipedia.org/wiki/Biplot)
 
 ![biplot](https://user-images.githubusercontent.com/24511419/32596087-4bdfd530-c55c-11e7-9e54-bcf16b617653.png)
 
-The red lines are the projected eigenvectors on 2D plane. This method is so useful for visulaization of unsupervised learning problems. Here, blues points are all sample examples of the dataset. It clearly tells us the data should have three classes. 
+The red lines are the low rank approximation/projected eigenvectors on 2D plane. This method is so useful for visulaization of unsupervised learning problems. Here, blues points are all sample examples of the dataset. It clearly tells us the data should have three classes. 
