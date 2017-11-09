@@ -14,4 +14,5 @@ For more information, follow this [link](https://en.wikipedia.org/wiki/Biplot)
 
 # Result:
 
+![biplot](https://user-images.githubusercontent.com/24511419/32596087-4bdfd530-c55c-11e7-9e54-bcf16b617653.png)
 
