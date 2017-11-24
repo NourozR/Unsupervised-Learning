@@ -9,3 +9,5 @@ A simple implementation on unlabelled Iris dataset looks like this:
 
 ![figure_1-2](https://user-images.githubusercontent.com/24511419/33223819-8c89d7ce-d18d-11e7-8c84-aafbfb61d46d.png)
 
+It seems that t-SNE works better that PCA because of its non-linear characteristics and probabilistic approach.
+
