@@ -7,5 +7,5 @@ Main paper link [here](http://www.jmlr.org/papers/v9/vandermaaten08a.html)
 
 A simple implementation on unlabelled Iris dataset looks like this: 
 
-![figure_1-1](https://user-images.githubusercontent.com/24511419/33222593-92677850-d182-11e7-8f21-c533b3039360.png)
- 
+![figure_1-2](https://user-images.githubusercontent.com/24511419/33223819-8c89d7ce-d18d-11e7-8c84-aafbfb61d46d.png)
+
