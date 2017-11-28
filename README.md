@@ -1,2 +1,6 @@
-# UsefulFunctions
-This repository contains some useful and necessary functions that are needed for analysis and working with machine learning but not present in regular Libraries.
+# Objective:
+This repository contains simple implementation of some very famous unsupervised learning algorithms.
+# Algorithms:
+- PCA (Principle Component Analysis)
+- t-SNE (t-distributed Stochastic Neighbour Embeddings)
+- NMF (Non-negative Matrix Factorization)
